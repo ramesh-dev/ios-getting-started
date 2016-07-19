@@ -1,5 +1,5 @@
 # Getting Started with iOS
-Getting Started with iOS (session content)
+Getting Started with iOS (session content). This is an very basic introductions to iOS and its architecture, no prior knowledge of iOS or its programming languages is required 
 
 ## What are we going to cover?
   
@@ -9,7 +9,10 @@ Getting Started with iOS (session content)
   - IOS App Architecture
   - Building an App
 
+## What you need to know?
 
-### More content will be update soon, stay tuned
+Some basic programming concepts, thats all we need, if not get some basics done.
+
+### More content will be updated soon, stay tuned
 
 
