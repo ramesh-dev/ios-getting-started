@@ -13,6 +13,11 @@ Getting Started with iOS (session content). This is an very basic introductions 
 
 Some basic programming concepts, thats all we need, if not get some basics done.
 
+## Feedback?
+
+if you have anything (questions, suggestions, feedback, exceptations), 
+just post us a feedback http://goo.gl/zJXmNA
+
 ### More content will be updated soon, stay tuned
 
 
